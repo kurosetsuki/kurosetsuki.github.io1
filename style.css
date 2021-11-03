@@ -1,14 +1,43 @@
 * {
     margin: 0;
     padding: 0;
+    list-style: none;
     box-sizing: border-box;
 
 }
 
+/*logo圖片控制*/
 .logo {
     border: 30px solid;
     color: azure;
     border-radius: 60px;
     width: 80%;
     height: 80%;
+}
+
+#master {
+    border: 10px solid;
+    color: lightpink;
+    width: 50%;
+    height: 50%;
+}
+
+ol, ul {
+    background: darksalmon;
+    font-size: 40px;
+}
+
+.relative {
+    margin-left: 84px;
+    margin-bottom: 70px;
+    background: lightpink;
+    width: 600px;
+    height: 200px;
+
+}
+
+.absolute {
+    background: aquamarine;
+    width: 100px;
+    height: 100px;
 }

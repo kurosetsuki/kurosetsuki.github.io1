@@ -90,7 +90,7 @@ ul{
     right: -53%;
     top: -601px;
     border-radius: 30px;
-    width: 50%;
+    width: 47%;
     height: 600px;
     background: rgba(245, 40, 145, 0.16);
 }
@@ -101,4 +101,8 @@ ul{
     font-size: 30px;
     margin-left: 30%;
     padding: 20px;
+}
+
+#footer{
+    height: 70px;
 }
